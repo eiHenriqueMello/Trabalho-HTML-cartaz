@@ -1,0 +1,38 @@
+body{
+    background-image: url(salavazia.jpg);
+}
+
+.titulo{
+    color:white;
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 0 0 8px #fff;
+}
+
+.titulo2{
+    color:white ;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 0 0 8px #fff;
+
+}
+
+div{
+    text-align: center;
+
+
+}
+.wifi{
+    width: 15% ;
+
+}
+.qrcode{
+    width: 15% ;
+
+}
+
+.senac{
+
+    margin-top: 90px ;
+    margin-bottom: 30px;
+}
